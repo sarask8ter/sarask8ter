@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sarask8ter
 - 👀 I’m interested in Sports Analytics, Machine Learning, AI, and Tech Startups
-- 🌱 I’m currently learning Computer Vision, Machine Learning, and App Development
-- 💞️ I’m looking to collaborate on Sports-related tech projects and AI/ML applications
 - 📫 How to reach me - Email: sara.ota@vanderbilt.edu, LinkedIn: https://www.linkedin.com/in/sara-ota/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I grew up figure skating in Honolulu, HI
