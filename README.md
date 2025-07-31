@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @sarask8ter
-- 👀 I’m interested in Sports Analytics, Machine Learning, AI, and Tech Startups
-- 📫 How to reach me - Email: sara.ota@vanderbilt.edu, LinkedIn: https://www.linkedin.com/in/sara-ota/
+- 👀 I’m interested in AI applications in criminal justice and healthcare, including using technology for crime prevention, criminal recognition, and surgical innovation to make the world safer and improve lives.
+- 🎓 I’m a Computer Science and Human & Organizational Development student at Vanderbilt University, passionate about becoming a strong software engineer to create real-world impact.
+- 💼 My experience as CTO at Arrowz and my background in figure skating have fueled my drive to use AI in meaningful ways—especially in healthcare (surgery, psychiatry) and criminal justice (solving crimes like assault and homicide).
+- 📚 In my free time, I enjoy watching true crime documentaries, reading, figure skating, weightlifting, and singing.
+- 📫 How to reach me: Email: sara.ota@vanderbilt.edu | LinkedIn: linkedin.com/in/sara-ota
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I grew up figure skating in Honolulu, HI
+- ⚡ Fun fact: I grew up figure skating in Honolulu, HI!
