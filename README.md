@@ -1,33 +1,58 @@
 <div align="center">
 
-# 🌺 Sara Ota | Software Engineer & AI Innovator 🌺
+# 🌸 Sara Ota | Software Engineer & AI Innovator 🌸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+AI+Enthusiast;From+Honolulu+%F0%9F%8C%BA+Building+the+Future+%F0%9F%9A%80;Passionate+About+Impactful+Tech+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DDA0DD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Tomorrow's+Technology+%F0%9F%9A%80;Solving+Complex+Problems+with+Elegance" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-ota)
-[![Email](https://img.shields.io/badge/Email-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.ota@vanderbilt.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF8C00?style=for-the-badge&logo=About.me&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B8C5D1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-ota)
+[![Email](https://img.shields.io/badge/Email-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.ota@vanderbilt.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ADD8E6?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
-<img src="https://komarev.com/ghpvc/?username=sarask8ter&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=sarask8ter&color=DDA0DD&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-> **Passionate about building impactful, real-world tech through creative problem-solving. Experienced in startups and cutting-edge AI, with a strong interest in staying at the forefront of innovation.**
+> **Passionate about building impactful, real-world tech through creative problem-solving. My startup experiences have positioned me at the forefront of innovation and agentic coding, while my strong foundation in algorithms enables me to tackle complex technical challenges.**
 
 🎓 **Computer Science & Human & Organizational Development** @ **Vanderbilt University**  
-💼 **Former CTO** @ **Arrowz** - Led technical vision and development  
-🏢 **Open to opportunities in:** Full-Stack SWE, Data Engineering, Cloud, Cybersecurity  
-🌺 **From Honolulu, Hawaii** - Bringing that aloha spirit to code  
+💼 **Current:** Software Engineer @ **Cloud Warriors** | **Former CTO** @ **Arrowz**  
+🎯 **Aspirations:** Leadership roles in tech, leveraging psychology and human-centered design  
+📚 **Currently:** Completing capstone on human-centered design thinking and systems design problem-solving  
 
 ### 🎯 What Drives Me
-- 🏥 **Healthcare Innovation:** AI in surgery, psychiatry, and patient care
-- ⚖️ **Criminal Justice Tech:** Crime prevention, recognition systems, and public safety
-- 💡 **Startup Mindset:** Building scalable solutions with real-world impact
+- 🧩 **Complex Problem-Solving:** Tackling intricate technical challenges with innovative solutions
+- 🏥 **Healthcare Innovation:** AI applications in surgery, psychiatry, and patient care
+- ⚖️ **Justice & Safety:** Technology for crime prevention and public safety systems
+- 💡 **Human-Centered Design:** Building technology that truly serves people's needs
 - 🌟 **Cutting-Edge AI:** RAG systems, LLMs, and intelligent applications
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 **Software Engineer** | *Cloud Warriors* | *Aug 2025 – Present*
+**Nashville, TN**
+- Engineering distributed web applications to automate Zoom operations, supporting 1K+ concurrent sessions
+- Building with Django, Celery, PostgreSQL/PostGIS, Daphne, and Docker
+- Maintaining 99.9% uptime through production debugging and implementing secure OAuth 2.0 access
+- Expanding QA automation with Playwright suites and Selenium pipelines, reducing regression time by 40%
+
+### 🌐 **Enterprise Systems Intern** | *American International Group (AIG)* | *June 2025 – Aug 2025*
+**Houston, TX**
+- Designed interactive UI components in SAP Analytics Cloud using JavaScript
+- Integrated REST APIs and optimized data pipelines with SAP HANA and SQL Server, reducing latency by 45%
+- Collaborated across 5+ cross-functional teams on scalable data solutions
+- Participated in diversity-driven initiatives, supporting inclusion efforts reaching 300+ individuals
+
+### 🎯 **Chief Technology Officer** | *Arrowz* | *Feb 2025 – Jul 2025*
+**Nashville, TN**
+- Built AI-powered mental health chatbot using LangChain, RAG, and Python for 200+ student users
+- Led team of 4 engineers in Agile/Scrum environment, improving sprint efficiency by 40%
+- Conducted 20+ inclusive user testing sessions, prioritizing accessibility and diverse student needs
 
 ---
 
@@ -36,35 +61,35 @@
 <div align="center">
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-DDA0DD?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-B8C5D1?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-B8C5D1?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFACD?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-ADD8E6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-DDA0DD?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-FFB6C1?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFFACD?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-ADD8E6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚡ Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FF6B9D?style=for-the-badge&logo=chainlink&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-F8F8FF?style=for-the-badge&logo=react&logoColor=ADD8E6)
+![Node.js](https://img.shields.io/badge/Node.js-DDA0DD?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-F8F8FF?style=for-the-badge&logo=express&logoColor=DDA0DD)
+![Flutter](https://img.shields.io/badge/Flutter-ADD8E6?style=for-the-badge&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-F8F8FF?style=for-the-badge&logo=flask&logoColor=DDA0DD)
+![LangChain](https://img.shields.io/badge/LangChain-FFB6C1?style=for-the-badge&logo=chainlink&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-B8C5D1?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFFACD?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-DDA0DD?style=for-the-badge&logo=git&logoColor=white)
 
 ### ☁️ Cloud & Platforms
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-ADD8E6?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FFFACD?style=for-the-badge&logo=amazonaws&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-DDA0DD?style=for-the-badge&logo=openai&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/SAP_HANA-ADD8E6?style=for-the-badge&logo=sap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FFFACD?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🎯 Core Specializations
 ```
@@ -124,14 +149,14 @@
 </td>
 <td width="50%">
 
-### 🎯 More Projects
-**Continuous Innovation**
-- 📱 Flutter mobile applications
-- 🤖 LangChain RAG implementations  
-- 📊 SAP Analytics Cloud dashboards
-- 🔥 Firebase real-time applications
+### ⛸️ SkateSense
+**AI Figure Skating Analysis**
+- 🤖 Computer vision with OpenCV & MediaPipe
+- 📊 Real-time jump analysis and coaching feedback
+- 🎯 Advanced pose estimation for athletes
+- 💡 Streamlit interface for video analysis
 
-[![Portfolio](https://img.shields.io/badge/View_All-FF8C00?style=for-the-badge&logo=github)](https://github.com/sarask8ter?tab=repositories)
+[![Repo](https://img.shields.io/badge/Repo-FF6B9D?style=for-the-badge&logo=github)](https://github.com/sarask8ter/skatesense)
 
 </td>
 </tr>
@@ -145,12 +170,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarask8ter&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarask8ter&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarask8ter&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DDA0DD&icon_color=ADD8E6&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarask8ter&theme=radical&hide_border=true&background=0D1117&stroke=DDA0DD&ring=ADD8E6&fire=FFB6C1&currStreakLabel=DDA0DD" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarask8ter&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=C9D1D9" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarask8ter&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DDA0DD&text_color=C9D1D9" />
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarask8ter&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF)](https://github.com/sarask8ter)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarask8ter&theme=react-dark&hide_border=true&bg_color=0D1117&color=DDA0DD&line=ADD8E6&point=FFB6C1)](https://github.com/sarask8ter)
 
 </div>
 
@@ -162,14 +187,14 @@
 
 ### 🌟 Personal Interests
 ```
-⛸️  Figure Skating Champion    🏋️‍♀️  Weightlifting Enthusiast
+⛸️  Figure Skating             🏋️‍♀️  Weightlifting Enthusiast
 📚  Avid Reader & Learner      🎬  Video Editing Creative  
 ☕  Cafe Explorer              🕵️  True Crime Documentaries
-🌺  Hawaiian Culture           🎯  Continuous Self-Improvement
+🎯  Self-Improvement           🎨  Creative Problem Solving
 ```
 
 ### 💫 Professional Ethos
-*"From the ice rinks of Honolulu to the tech hubs of innovation - I bring precision, creativity, and relentless determination to every challenge. My unique blend of startup leadership, technical expertise, and genuine passion for making the world better through technology drives me to create solutions that truly matter."*
+*"I believe in building technology that creates meaningful impact. Through my journey in startups and established companies, I've learned that the best solutions come from understanding human needs and applying technical excellence with empathy. I'm passionate about mentoring others and fostering inclusive environments where innovative ideas can flourish."*
 
 </div>
 
