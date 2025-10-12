@@ -212,6 +212,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20lots%20of%20%E2%98%95&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
