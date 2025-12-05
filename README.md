@@ -30,6 +30,50 @@
 - 💡 **Human-Centered Design:** Building technology that truly serves people's needs
 - 🌟 **Cutting-Edge AI:** RAG systems, LLMs, and intelligent applications
 
+### 📸 Life Beyond Code
+
+<div align="center">
+
+*Swipe through my adventures!* → [**Visit my portfolio for interactive carousel**](https://sarask8ter.github.io/sara-ota-portfolio)
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="images/japan-visit.jpg" alt="Japan Summer 2025" width="100%" style="border-radius: 20px; border: 3px solid #DDA0DD;"/>
+      <p align="center"><b>🇯🇵 Japan Adventure</b><br/>Summer 2025 - Exploring Japan's tech culture and traditions</p>
+    </td>
+    <td width="50%">
+      <img src="images/ghc-photo.jpg" alt="Grace Hopper Conference" width="100%" style="border-radius: 20px; border: 3px solid #ADD8E6;"/>
+      <p align="center"><b>💻 Grace Hopper Conference</b><br/>Connecting with inspiring women in tech</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="images/hawaii-lulumahu.jpg" alt="Lulumahu Falls Hawaii" width="100%" style="border-radius: 20px; border: 3px solid #FFB6C1;"/>
+      <p align="center"><b>🌺 Home Sweet Hawaii</b><br/>Lulumahu Falls - My favorite spot back home in Honolulu</p>
+    </td>
+    <td width="50%">
+      <img src="images/dollywood.jpg" alt="Dollywood Tennessee" width="100%" style="border-radius: 20px; border: 3px solid #B8C5D1;"/>
+      <p align="center"><b>🎢 Exploring Tennessee</b><br/>Visiting Dollywood and experiencing the local culture</p>
+    </td>
+  </tr>
+</table>
+
+### 🌟 Personal Interests
+
+<div align="center">
+
+| 🎯 Interest | ⚡ Passion |
+|:----------:|:---------:|
+| ⛸️ **Figure Skating** | 🏋️‍♀️ **Weightlifting Enthusiast** |
+| 📚 **Avid Reader & Learner** | 🎬 **Video Editing Creative** |
+| ☕ **Cafe Explorer** | 🕵️ **True Crime Documentaries** |
+| 🎯 **Self-Improvement** | 🎨 **Creative Problem Solving** |
+
+</div>
+
+</div>
+
 ---
 
 ## 💼 Professional Experience
@@ -187,45 +231,11 @@
 
 ---
 
-## 🎭 Beyond Code
+## 💫 Professional Ethos
 
 <div align="center">
 
-### 🌟 Personal Interests
-```
-⛸️  Figure Skating             🏋️‍♀️  Weightlifting Enthusiast
-📚  Avid Reader & Learner      🎬  Video Editing Creative  
-☕  Cafe Explorer              🕵️  True Crime Documentaries
-🎯  Self-Improvement           🎨  Creative Problem Solving
-```
-
-### 💫 Professional Ethos
 *"I believe in building technology that creates meaningful impact. Through my journey in startups and established companies, I've learned that the best solutions come from understanding human needs and applying technical excellence with empathy. I'm passionate about mentoring others and fostering inclusive environments where innovative ideas can flourish."*
-
-### 📸 Life in Pictures
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="images/japan-visit.jpg" alt="Japan Summer 2025" width="100%" style="border-radius: 20px; border: 3px solid #DDA0DD;"/>
-      <p align="center"><b>🇯🇵 Japan Summer 2025</b><br/>Exploring tech culture & traditions</p>
-    </td>
-    <td width="50%">
-      <img src="images/ghc-photo.jpg" alt="Grace Hopper Conference" width="100%" style="border-radius: 20px; border: 3px solid #ADD8E6;"/>
-      <p align="center"><b>💻 Grace Hopper Conference</b><br/>Connecting with women in tech</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="images/hawaii-lulumahu.jpg" alt="Lulumahu Falls Hawaii" width="100%" style="border-radius: 20px; border: 3px solid #FFB6C1;"/>
-      <p align="center"><b>🌺 Home Sweet Hawaii</b><br/>Lulumahu Falls, Honolulu</p>
-    </td>
-    <td width="50%">
-      <img src="images/dollywood.jpg" alt="Dollywood Tennessee" width="100%" style="border-radius: 20px; border: 3px solid #B8C5D1;"/>
-      <p align="center"><b>🎢 Exploring Tennessee</b><br/>Dollywood adventure</p>
-    </td>
-  </tr>
-</table>
 
 </div>
 
