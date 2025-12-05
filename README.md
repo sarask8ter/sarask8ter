@@ -202,6 +202,31 @@
 ### 💫 Professional Ethos
 *"I believe in building technology that creates meaningful impact. Through my journey in startups and established companies, I've learned that the best solutions come from understanding human needs and applying technical excellence with empathy. I'm passionate about mentoring others and fostering inclusive environments where innovative ideas can flourish."*
 
+### 📸 Life in Pictures
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="images/japan-visit.jpg" alt="Japan Summer 2025" width="100%" style="border-radius: 20px; border: 3px solid #DDA0DD;"/>
+      <p align="center"><b>🇯🇵 Japan Summer 2025</b><br/>Exploring tech culture & traditions</p>
+    </td>
+    <td width="50%">
+      <img src="images/ghc-photo.jpg" alt="Grace Hopper Conference" width="100%" style="border-radius: 20px; border: 3px solid #ADD8E6;"/>
+      <p align="center"><b>💻 Grace Hopper Conference</b><br/>Connecting with women in tech</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="images/hawaii-lulumahu.jpg" alt="Lulumahu Falls Hawaii" width="100%" style="border-radius: 20px; border: 3px solid #FFB6C1;"/>
+      <p align="center"><b>🌺 Home Sweet Hawaii</b><br/>Lulumahu Falls, Honolulu</p>
+    </td>
+    <td width="50%">
+      <img src="images/dollywood.jpg" alt="Dollywood Tennessee" width="100%" style="border-radius: 20px; border: 3px solid #B8C5D1;"/>
+      <p align="center"><b>🎢 Exploring Tennessee</b><br/>Dollywood adventure</p>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
