@@ -19,7 +19,7 @@
 > **Passionate about building impactful, real-world tech through creative problem-solving. My startup experiences have positioned me at the forefront of innovation and agentic coding, while my strong foundation in algorithms enables me to tackle complex technical challenges.**
 
 🎓 **Computer Science & Human & Organizational Development** @ **Vanderbilt University**  
-💼 **Current:** Software Engineer @ **Cloud Warriors** | **Former CTO** @ **Arrowz**  
+💼 **Incoming:** Full-Stack SWE Intern @ **Snapchat** (May 2026 – Aug 2026) | **Current:** Software Engineer @ **Cloud Warriors**  
 🎯 **Aspirations:** Leadership roles in tech, leveraging psychology and human-centered design  
 📚 **Currently:** Completing capstone on human-centered design thinking and systems design problem-solving  
 
@@ -33,6 +33,12 @@
 ---
 
 ## 💼 Professional Experience
+
+### 👻 **Full-Stack Software Engineering Intern** | *Snapchat* | *May 2026 – Aug 2026*
+**Santa Monica, CA**
+- Incoming full-stack software engineering intern at Snapchat
+- Building innovative features for millions of users worldwide
+- Working with cutting-edge technologies in social media and AR
 
 ### 🚀 **Software Engineer** | *Cloud Warriors* | *Aug 2025 – Present*
 **Nashville, TN**
