@@ -34,9 +34,9 @@
 
 ## 💼 Professional Experience
 
-### 👻 **Full-Stack Software Engineering Intern** | *Snapchat* | *May 2026 – Aug 2026*
+### 👻 **Software Engineer Intern** | *Snapchat* | *May 2026 – Aug 2026*
 **Santa Monica, CA**
-- Incoming full-stack software engineering intern at Snapchat
+- Incoming full-stack SWE intern at Snapchat
 - Building innovative features for millions of users worldwide
 - Working with cutting-edge technologies in social media and AR
 
