@@ -30,17 +30,15 @@
 - 💡 **Human-Centered Design:** Building technology that truly serves people's needs
 - 🌟 **Cutting-Edge AI:** RAG systems, LLMs, and intelligent applications
 
-### 📸 Life Beyond Code
+### 📸 Scroll Through My Adventures
 
 <div align="center">
-
-*Swipe through my adventures!* → [**Visit my portfolio for interactive carousel**](https://sarask8ter.github.io/sara-ota-portfolio)
 
 <table>
   <tr>
     <td width="50%">
       <img src="images/japan-visit.jpg" alt="Japan Summer 2025" width="100%" style="border-radius: 20px; border: 3px solid #DDA0DD;"/>
-      <p align="center"><b>🇯🇵 Japan Adventure</b><br/>Summer 2025 - Exploring Japan's tech culture and traditions</p>
+      <p align="center"><b>🇯🇵 Japan Adventure</b><br/>Visiting relatives in Japan during the summer</p>
     </td>
     <td width="50%">
       <img src="images/ghc-photo.jpg" alt="Grace Hopper Conference" width="100%" style="border-radius: 20px; border: 3px solid #ADD8E6;"/>
@@ -50,11 +48,11 @@
   <tr>
     <td width="50%">
       <img src="images/hawaii-lulumahu.jpg" alt="Lulumahu Falls Hawaii" width="100%" style="border-radius: 20px; border: 3px solid #FFB6C1;"/>
-      <p align="center"><b>🌺 Home Sweet Hawaii</b><br/>Lulumahu Falls - My favorite spot back home in Honolulu</p>
+      <p align="center"><b>🌺 Lulumahu Falls, Honolulu</b></p>
     </td>
     <td width="50%">
       <img src="images/dollywood.jpg" alt="Dollywood Tennessee" width="100%" style="border-radius: 20px; border: 3px solid #B8C5D1;"/>
-      <p align="center"><b>🎢 Exploring Tennessee</b><br/>Visiting Dollywood and experiencing the local culture</p>
+      <p align="center"><b>🎢 Dollywood</b><br/>Visiting Dollywood in Gatlinburg, TN</p>
     </td>
   </tr>
 </table>
