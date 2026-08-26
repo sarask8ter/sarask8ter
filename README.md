@@ -19,8 +19,7 @@
 > **Passionate about building impactful, real-world tech through creative problem-solving. My startup experiences have positioned me at the forefront of innovation and agentic coding, while my strong foundation in algorithms enables me to tackle complex technical challenges.**
 
 🎓 **Computer Science & Human & Organizational Development** @ **Vanderbilt University**  
-🎯 **Aspirations:** Leadership roles in tech, leveraging psychology and human-centered design  
-📚 **Currently:** Completing capstone on human-centered design thinking and systems design problem-solving  
+🎯 **Aspirations:** Leadership roles in tech, leveraging psychology and human-centered design   
 
 ### 🎯 What Drives Me
 - 🧩 **Complex Problem-Solving:** Tackling intricate technical challenges with innovative solutions
