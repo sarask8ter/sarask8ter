@@ -143,14 +143,6 @@ by 40%
 ![Linux](https://img.shields.io/badge/Linux-FFFACD?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🎯 Core Specializations
-```
-🏗️  Scalable System Design        🔌  API Integration & Development
-📊  Data Visualization & Analytics  🤖  AI/ML & RAG Implementation  
-🎨  UI/UX Design & Frontend         🔐  Cybersecurity Principles
-📈  Agile/Scrum Methodologies      🐛  Advanced Debugging & Testing
-```
-
 </div>
 
 ---
@@ -175,32 +167,6 @@ by 40%
 </td>
 <td width="50%">
 
-### 🎤 AI Karaoke Experience
-**Japanese Karaoke Room Simulator**
-- 🎌 Authentic Japanese karaoke culture recreation
-- 🎵 AI-powered vocal scoring system
-- 🎨 Cute character UI with anime aesthetics
-- 🏆 Real-time performance analytics
-
-[![Repo](https://img.shields.io/badge/Repo-FF6B9D?style=for-the-badge&logo=github)](https://github.com/sarask8ter/karaoke-app)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛡️ SafeGuard Detector
-**Blockchain Security Platform**
-- 🔐 Smart contract vulnerability detection
-- ⛓️ Solidity integration with Web3 technologies
-- 🚨 Real-time threat assessment
-- 💎 Ethereum blockchain deployment
-
-[![Repo](https://img.shields.io/badge/Repo-FF6B9D?style=for-the-badge&logo=github)](https://github.com/sarask8ter/safeguard-detector)
-
-</td>
-<td width="50%">
-
 ### ⛸️ SkateSense
 **AI Figure Skating Analysis**
 - 🤖 Computer vision with OpenCV & MediaPipe
@@ -209,6 +175,34 @@ by 40%
 - 💡 Streamlit interface for video analysis
 
 [![Repo](https://img.shields.io/badge/Repo-FF6B9D?style=for-the-badge&logo=github)](https://github.com/sarask8ter/skatesense)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏚️ One Short Stay
+**Narrative Horror Game • Unity & C#**
+- 👁️ Story-driven horror experience set in an unsettling Airbnb
+- 🎭 Task, event, and dialogue systems drive an interactive narrative
+- 🎮 Built in Unity with custom C# gameplay and interaction systems
+- 🇩🇰 Created for the Game Development Core Course at DIS Copenhagen
+
+[![Repo](https://img.shields.io/badge/Repo-FF6B9D?style=for-the-badge&logo=github)](https://github.com/sarask8ter/gamedev_final)
+[![Play](https://img.shields.io/badge/Play_on_Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://sarask8ter.itch.io/one-short-stay)
+
+</td>
+<td width="50%">
+
+### 🍽️ Beli for Vandy
+**Social Dining Review Platform**
+- ⭐ Rate and review Vanderbilt dining halls and individual meals
+- 👥 Follow friends and discover what other students recommend
+- 🔎 Explore dining halls, reviews, ratings, and meal-time filters
+- 💻 Full-stack app with Angular/TypeScript, FastAPI/Python & MongoDB
+
+[![Repo](https://img.shields.io/badge/Repo-FF6B9D?style=for-the-badge&logo=github)](https://github.com/draw-n/beli-for-vandy)
 
 </td>
 </tr>
