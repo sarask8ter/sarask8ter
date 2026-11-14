@@ -74,16 +74,21 @@
 
 ### 👻 **Software Engineer Intern** | *Snapchat* | *May 2026 – Aug 2026*
 **Santa Monica, CA**
-- Incoming full-stack SWE intern at Snapchat
-- Building innovative features for millions of users worldwide
-- Working with cutting-edge technologies in social media and AR
+- Designed and launched a Snapchat+ Buddy Pass feature across Go, Swift, and TypeScript, dynamically
+allocating passes based on friend-network activity for 6M+ subscribers
+- Built a high-throughput Go and Cloud Spanner persistence layer managing 10M+ quota states; designed a
+lazy-refresh-on-write strategy that reduced database lock contention by 35%
+- Launched and monitored a production A/B experiment from 1% to 100% traffic, achieving 35–53%
+redemption while resolving Swift and TypeScript client issues through full rollout
 
-### 🚀 **Software Engineer** | *Cloud Warriors* | *Aug 2025 – Present*
+### 🚀 **Software Engineer Intern** | *Cloud Warriors* | *Aug 2025 – Present*
 **Nashville, TN**
-- Engineering distributed web applications to automate Zoom operations, supporting 1K+ concurrent sessions
-- Building with Django, Celery, PostgreSQL/PostGIS, Daphne, and Docker
-- Maintaining 99.9% uptime through production debugging and implementing secure OAuth 2.0 access
-- Expanding QA automation with Playwright suites and Selenium pipelines, reducing regression time by 40%
+- Implemented a Playwright E2E automation framework that increased test coverage by 150% (18 to 45 workflows)
+across enterprise provisioning and licensing scenarios
+- Made a telemetry and automated scoring pipeline using Python, Pandas, and Jinja2, generating diagnostic
+reports that eliminated 200+ hours/quarter of manual debugging
+- Integrated automated test suites into GitHub Actions CI/CD and resolved session-persistence failures, reducing
+test execution errors to 3.75% across 240 runs
 
 ### 🌐 **Enterprise Systems Intern** | *American International Group (AIG)* | *June 2025 – Aug 2025*
 **Houston, TX**
@@ -94,9 +99,12 @@
 
 ### 🎯 **Chief Technology Officer** | *Arrowz* | *Feb 2025 – Jul 2025*
 **Nashville, TN**
-- Built AI-powered mental health chatbot using LangChain, RAG, and Python for 200+ student users
-- Led team of 4 engineers in Agile/Scrum environment, improving sprint efficiency by 40%
-- Conducted 20+ inclusive user testing sessions, prioritizing accessibility and diverse student needs
+- Built a Python Retrieval-Augmented Generation (RAG) application using LangChain and LLM APIs, increasing
+user engagement by 47% and retention by 31%
+- Architected and deployed containerized backend services on AWS EC2, supporting concurrent workloads with
+P95 latency under 120ms at peak load
+- Led a team of 4 engineers through feature development, code reviews, and CI adoption, increasing sprint velocity
+by 40%
 
 ---
 
