@@ -61,10 +61,8 @@
 
 | 🎯 Interest | ⚡ Passion |
 |:----------:|:---------:|
-| ⛸️ **Figure Skating** | 🏋️‍♀️ **Weightlifting Enthusiast** |
-| 📚 **Avid Reader & Learner** | 🎬 **Video Editing Creative** |
+| ⛸️ **Figure Skating** | 🏋️‍♀️ **Weightlifting** |
 | ☕ **Cafe Explorer** | 🕵️ **True Crime Documentaries** |
-| 🎯 **Self-Improvement** | 🎨 **Creative Problem Solving** |
 
 </div>
 
@@ -207,21 +205,6 @@
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarask8ter&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DDA0DD&icon_color=ADD8E6&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarask8ter&theme=radical&hide_border=true&background=0D1117&stroke=DDA0DD&ring=ADD8E6&fire=FFB6C1&currStreakLabel=DDA0DD" />
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarask8ter&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DDA0DD&text_color=C9D1D9" />
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarask8ter&theme=react-dark&hide_border=true&bg_color=0D1117&color=DDA0DD&line=ADD8E6&point=FFB6C1)](https://github.com/sarask8ter)
 
 </div>
 
