@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Sara Ota | Software Engineer & AI Innovator 🌸
+# 🌸 Sara Ota | Aspiring Software Engineer & Innovator 🌸
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DDA0DD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Tomorrow's+Technology+%F0%9F%9A%80;Solving+Complex+Problems+with+Elegance" alt="Typing SVG" />
 
@@ -62,7 +62,7 @@
 | 🎯 Interest | ⚡ Passion |
 |:----------:|:---------:|
 | ⛸️ **Figure Skating** | 🏋️‍♀️ **Weightlifting** |
-| ☕ **Cafe Explorer** | 🕵️ **True Crime Documentaries** |
+| ☕ **Whitney Houston** | 🕵️ **Singing** |
 
 </div>
 
