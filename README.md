@@ -67,6 +67,7 @@
 ---
 
 ## 💼 Professional Experience
+<div align="left">
 
 ### 👻 **Software Engineer Intern** | *Snapchat* | *May 2026 – Aug 2026*
 **Santa Monica, CA**
@@ -101,6 +102,7 @@ user engagement by 47% and retention by 31%
 P95 latency under 120ms at peak load
 - Led a team of 4 engineers through feature development, code reviews, and CI adoption, increasing sprint velocity
 by 40%
+</div>
 
 ---
 
