@@ -21,12 +21,11 @@
 🎓 **Computer Science & Human & Organizational Development** @ **Vanderbilt University**  
 🎯 **Aspirations:** Leadership roles in tech, leveraging psychology and human-centered design   
 
-### 🎯 What Drives Me
-- 🧩 **Complex Problem-Solving:** Tackling intricate technical challenges with innovative solutions
-- 🏥 **Healthcare Innovation:** AI applications in surgery, psychiatry, and patient care
-- ⚖️ **Justice & Safety:** Technology for crime prevention and public safety systems
-- 💡 **Human-Centered Design:** Building technology that truly serves people's needs
-- 🌟 **Cutting-Edge AI:** RAG systems, LLMs, and intelligent applications
+### 🎯 Involements
+- 🧩 **Google Developer Group:** Event Coordinator
+- 👩🏻 **Women in Computing:** VP-Programming Director
+- 💡 **Vanderbilt Innovation and Entrepreneurship Society:** Communications Director
+- 🔐 **Vanderbilt Blockchain:** Cohort Member
 
 ### 📸 Scroll Through My Adventures
 
