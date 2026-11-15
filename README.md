@@ -16,12 +16,12 @@
 
 ## 🌟 About Me
 
-> **Passionate about building impactful, real-world tech through creative problem-solving. My startup experiences have positioned me at the forefront of innovation and agentic coding, while my strong foundation in algorithms enables me to tackle complex technical challenges.**
+> **Focused on strengthening my intuition as a software engineer, thinking outside of the box, exploring possibilities, and navigating ambiguity with curiosity and sound judgment.**
 
-🎓 **Computer Science & Human & Organizational Development** @ **Vanderbilt University**  
-🎯 **Aspirations:** Leadership roles in tech, leveraging psychology and human-centered design   
+**Computer Science & Human & Organizational Development** @ **Vanderbilt University**  
+**Aspirations:** Backend/Mobile/Full-stack/Infra Engineering for human-centered design tech  
 
-### 🎯 Involements
+### 🎯 Involvements
 - 🧩 **Google Developer Group:** Event Coordinator
 - 👩🏻 **Women in Computing:** VP-Programming Director
 - 💡 **Vanderbilt Innovation and Entrepreneurship Society:** Communications Director
@@ -225,7 +225,7 @@ by 40%
 
 <div align="center">
 
-*"I believe in building technology that creates meaningful impact. Through my journey in startups and established companies, I've learned that the best solutions come from understanding human needs and applying technical excellence with empathy. I'm passionate about mentoring others and fostering inclusive environments where innovative ideas can flourish."*
+*"I believe in building technology that creates meaningful impact in this world. Through my journey in startups and established companies, I've learned that the best solutions come from understanding human needs and applying technical excellence with empathy. I'm passionate about solving difficult and ambiguous problems to improve the experience of users."*
 
 </div>
 
@@ -233,7 +233,7 @@ by 40%
 
 <div align="center">
 
-## 🤝 Let's Connect & Build Something Amazing!
+## 🤝 Let's Connect & Problem Solve Together!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Always+open+to+exciting+opportunities!;Let's+create+impactful+technology+together!;Ready+to+innovate+and+make+a+difference!" alt="Connect SVG" />
 
