@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B8C5D1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-ota)
 [![Email](https://img.shields.io/badge/Email-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.ota@vanderbilt.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ADD8E6?style=for-the-badge&logo=About.me&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ADD8E6?style=for-the-badge&logo=About.me&logoColor=white)](https://sarask8ter.github.io/sara-ota-portfolio/)
 
 <img src="https://komarev.com/ghpvc/?username=sarask8ter&color=DDA0DD&style=for-the-badge" alt="Profile Views" />
 
@@ -16,7 +16,7 @@
 
 ## 🌟 About Me
 
-> **Focused on strengthening my intuition as a software engineer, thinking outside of the box, exploring possibilities, and navigating ambiguity with curiosity and sound judgment.**
+> **Focused on expanding my toolbox as a software engineer, thinking outside of the box, exploring possibilities, and navigating ambiguity with curiosity and sound judgment.**
 
 **Computer Science & Human & Organizational Development** @ **Vanderbilt University**  
 **Aspirations:** Backend/Mobile/Full-stack/Infra Engineering for human-centered design tech  
@@ -54,16 +54,13 @@
   </tr>
 </table>
 
-### 🌟 Personal Interests
+### Beyond Code
 
 <div align="center">
 
-| 🎯 Interest | ⚡ Passion |
-|:----------:|:---------:|
-| ⛸️ **Figure Skating** | 🏋️‍♀️ **Weightlifting** |
-| ☕ **Whitney Houston** | 🕵️ **Singing** |
-
-</div>
+| ⛸️ **Figure Skating** | 🏋️‍♀️ **Weightlifting** | 🎤 **Singing** |
+|:---:|:---:|:---:|
+| 🎶 **Whitney Houston** | 🍳 **Cooking** | ☕ **Escape Rooms** |
 
 </div>
 
