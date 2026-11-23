@@ -211,6 +211,7 @@ by 40%
 - 💻 Full-stack app with Angular/TypeScript, FastAPI/Python & MongoDB
 
 [![Repo](https://img.shields.io/badge/Repo-FF6B9D?style=for-the-badge&logo=github)](https://github.com/draw-n/beli-for-vandy)
+[![Vercel](https://img.shields.io/badge/Vercel-FA5C5C?style=for-the-badge&logo=github)](https://beli-for-vandy-sigma.vercel.app/login)
 
 </td>
 </tr>
