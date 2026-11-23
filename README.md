@@ -220,16 +220,6 @@ by 40%
 
 ---
 
-## 💫 Professional Ethos
-
-<div align="center">
-
-*"I believe in building technology that creates meaningful impact in this world. Through my journey in startups and established companies, I've learned that the best solutions come from understanding human needs and applying technical excellence with empathy. I'm passionate about solving difficult and ambiguous problems to improve the experience of users."*
-
-</div>
-
----
-
 <div align="center">
 
 ## 🤝 Let's Connect & Problem Solve Together!
