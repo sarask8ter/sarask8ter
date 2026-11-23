@@ -78,7 +78,7 @@ lazy-refresh-on-write strategy that reduced database lock contention by 35%
 - Launched and monitored a production A/B experiment from 1% to 100% traffic, achieving 35–53%
 redemption while resolving Swift and TypeScript client issues through full rollout
 
-### 🚀 **Software Engineer Intern** | *Cloud Warriors* | *Aug 2025 – Present*
+### 🚀 **Software Engineer Intern** | *Cloud Warriors* | *Aug 2025 – Dec 2025*
 **Nashville, TN**
 - Implemented a Playwright E2E automation framework that increased test coverage by 150% (18 to 45 workflows)
 across enterprise provisioning and licensing scenarios
