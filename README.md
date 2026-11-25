@@ -2,7 +2,7 @@
 
 # 🌸 Sara Ota | Aspiring Software Engineer & Innovator 🌸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DDA0DD&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Backend+%7C+Mobile+%7C+Full+Stack+Engineer;Solving+Complex+Problems+with+Proactivity;Building+with+Determination+%26+Purpose+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DDA0DD&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Backend+%7C+Mobile+%7C+Full+Stack+Engineer;Solving+Complex+Problems+with+Elegance+%E2%9C%A8" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B8C5D1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-ota)
 [![Email](https://img.shields.io/badge/Email-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.ota@vanderbilt.edu)
@@ -50,6 +50,16 @@
     <td width="50%">
       <img src="images/dollywood.jpg" alt="Dollywood Tennessee" width="100%" style="border-radius: 20px; border: 3px solid #B8C5D1;"/>
       <p align="center"><b>🎢 Dollywood</b><br/>Visiting Dollywood in Gatlinburg, TN</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="images/Snap" alt="Snap" width="100%" style="border-radius: 20px; border: 3px solid #DDA0DD;"/>
+      <p align="center"><b>👻 Snap</b><br/>Making memories along the way</p>
+    </td>
+    <td width="50%">
+      <img src="images/copenhagen" alt="Copenhagen Denmark" width="100%" style="border-radius: 20px; border: 3px solid #ADD8E6;"/>
+      <p align="center"><b>🇩🇰 Copenhagen</b><br/>Exploring Copenhagen, Denmark</p>
     </td>
   </tr>
 </table>
