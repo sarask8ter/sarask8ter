@@ -2,7 +2,7 @@
 
 # 🌸 Sara Ota | Aspiring Software Engineer & Innovator 🌸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DDA0DD&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Tomorrow's+Technology+%F0%9F%9A%80;Solving+Complex+Problems+with+Elegance" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DDA0DD&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Backend+%7C+Mobile+%7C+Full+Stack+Engineer;Solving+Complex+Problems+with+Proactivity;Building+with+Determination+%26+Purpose+%F0%9F%9A%80" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B8C5D1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-ota)
 [![Email](https://img.shields.io/badge/Email-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.ota@vanderbilt.edu)
