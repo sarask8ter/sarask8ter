@@ -32,6 +32,16 @@
 <div align="center">
 
 <table>
+    <tr>
+    <td width="50%">
+      <img src="images/snap.jpeg" alt="Snap" width="100%" style="border-radius: 20px; border: 3px solid #DDA0DD;"/>
+      <p align="center"><b>👻 Snap</b><br/>Presenting during intern snapshot week</p>
+    </td>
+    <td width="50%">
+      <img src="images/copenhagen" alt="Copenhagen Denmark" width="100%" style="border-radius: 20px; border: 3px solid #ADD8E6;"/>
+      <p align="center"><b>🇩🇰 Copenhagen</b><br/>Meeting new friends in Copenhagen, Denmark</p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <img src="images/japan-visit.jpg" alt="Japan Summer 2025" width="100%" style="border-radius: 20px; border: 3px solid #DDA0DD;"/>
@@ -50,16 +60,6 @@
     <td width="50%">
       <img src="images/dollywood.jpg" alt="Dollywood Tennessee" width="100%" style="border-radius: 20px; border: 3px solid #B8C5D1;"/>
       <p align="center"><b>🎢 Dollywood</b><br/>Visiting Dollywood in Gatlinburg, TN</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="images/Snap" alt="Snap" width="100%" style="border-radius: 20px; border: 3px solid #DDA0DD;"/>
-      <p align="center"><b>👻 Snap</b><br/>Making memories along the way</p>
-    </td>
-    <td width="50%">
-      <img src="images/copenhagen" alt="Copenhagen Denmark" width="100%" style="border-radius: 20px; border: 3px solid #ADD8E6;"/>
-      <p align="center"><b>🇩🇰 Copenhagen</b><br/>Exploring Copenhagen, Denmark</p>
     </td>
   </tr>
 </table>
